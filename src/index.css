@@ -31,3 +31,32 @@ nav {
 .footer {
 	flex-shrink: 0;
 }
+
+.card-item {
+	flex-basis: 25%;
+}
+
+.cards-list {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.card-image {
+	max-height: 280px;
+	overflow: hidden;
+}
+
+.hide {
+	display: none;
+}
+
+.mymodal {
+	width: 50%;
+	height: 70%;
+}
+
+.moovies {
+	display: flex;
+	flex-wrap: wrap;
+}

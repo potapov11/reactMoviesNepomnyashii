@@ -1,10 +1,10 @@
 function Header() {
 	return (
-		<nav className="teal darken-4">
+		<nav className="nav teal darken-4">
 			<div className="nav-wrapper">
-				<a href="#" class="brand-logo">
+				{/* <a href="#" className="brand-logo">
 					Logo
-				</a>
+				</a> */}
 				<ul id="nav-mobile" class="right hide-on-med-and-down">
 					<li>
 						<a href="!#">repo</a>
